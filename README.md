@@ -16,6 +16,12 @@ Github - hosting platform for sharing the project
 # Requirements:
 - Install **Python 3** from https://www.python.org/downloads/
 Check installation.
+# Instructions for testing:
+- Type whether you want to encode or decode.
+- Type your message.
+- Type the shift number.
+- You will then get the output.
+- You can see the given example.
 # Example input/output:
 Type 'encode' to encrypt, type 'decode' to decrypt:
 

@@ -18,10 +18,15 @@ Github - hosting platform for sharing the project
 Check installation.
 # Example input/output:
 Type 'encode' to encrypt, type 'decode' to decrypt:
+
 encode
+
 Type your message:
+
 hello
+
 Type the shift number:
+
 3
 
 Here is the encoded result: khoor

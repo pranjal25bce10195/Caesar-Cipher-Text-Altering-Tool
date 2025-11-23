@@ -1,5 +1,5 @@
 ## Project Title: 
-**Caesar Cipher Text Encryption Tool**
+**Caesar Cipher Text Altering Tool**
 
 ## Problem Statement:
 In everyday digital communication, sensitive text messages can be intercepted and misused if transmitted without protection. Many users need a simple and user-friendly method to secure their messages without requiring advanced technical knowledge or modern cryptographic systems.  

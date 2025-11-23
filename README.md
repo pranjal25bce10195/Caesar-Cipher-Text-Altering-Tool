@@ -12,6 +12,16 @@ Github - hosting platform for sharing the project
 # How to run the project:
 - Download this repository
 - Open the project folder
-- Run the python program
+- Run the python program (python main.py)
 # Requirements:
-Make sure python version is installed.
+- Install **Python 3** from https://www.python.org/downloads/
+Check installation.
+# Example input/output:
+Type 'encode' to encrypt, type 'decode' to decrypt:
+encode
+Type your message:
+hello
+Type the shift number:
+3
+
+Here is the encoded result: khoor

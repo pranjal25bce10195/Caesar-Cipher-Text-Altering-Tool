@@ -18,7 +18,7 @@ This project allows users to ->
 - Educators teaching classical encryption techniques.
 
 ## High-Level Features:
-- Text Encryption           => Converts plain text into cipher text using shift values.
+-Text Encryption           => Converts plain text into cipher text using shift values.
   
 -Text Decryption            => Restores encoded text back to original form.
 
